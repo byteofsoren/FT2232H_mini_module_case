@@ -12,7 +12,7 @@ quite fragile.
 
 | Part          | Count |
 |---------------|-------|
-| M3x15         | 4     |
+| M3x8          | 4     |
 | M3 square nut | 4     |
 
 
